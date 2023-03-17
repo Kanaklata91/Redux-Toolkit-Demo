@@ -1,3 +1,3 @@
 # Redux-Toolkit-Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-tprcme)
+This is the sample code for using @redux/toolkit , using createSlice and configure store 
